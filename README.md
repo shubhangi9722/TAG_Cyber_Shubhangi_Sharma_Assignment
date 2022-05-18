@@ -3,6 +3,10 @@ Blogpost website where users can post, edit or delete their posts.
 
 A simple website application is developed using MySQL and PHP along with Laravel framework. This webiste provide users the authority to create and update their blog. Also, one more CRUD, application is delete, with the Admin's authorization users are able to delete their blog post. Adding to these, users can comment on posts as well. Let us walk through the entire application and the resources utilized in creating this website. 
 
+You need to install node modules before running this application by writing the following command:
+
+                   npm install
+
 **Resources:**
 1. PHP (version 8.1.6)
 2. MySQL (version 8.0)
